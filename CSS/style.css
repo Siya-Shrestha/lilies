@@ -1,0 +1,21 @@
+#name{
+    font-size: xx-large;
+    color: rgb(253, 255, 255);
+ text-shadow: 
+ 0 0 10px palevioletred,
+ 0 0 20px palevioletred,
+ 0 0 30px palevioletred,
+ 0 0 40px palevioletred;
+}
+.main{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+#lilies:hover{
+   filter: blur(10px);
+}
+    #clilies:hover{
+        filter: blur(20px);
+    }
